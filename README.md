@@ -2,7 +2,7 @@
 
 A clean, modern, and user-friendly multi-modal transit route optimizer inspired by the **Kochi Metro (Blue Line)**, **Kochi Water Metro**, and the proposed **Phase 2 (Pink Line)** with transfer walkways.
 
-Built with **CustomTkinter** for modern rounded cards, sleek typography, and a crisp **White + Blue** theme.
+Built with **CustomTkinter** for modern rounded cards, sleek typography, and a crisp **White + Blue** theme. ( for perfect coastal vibes :D)
 <img width="947" height="543" alt="image" src="https://github.com/user-attachments/assets/bc113a1f-fdbd-4ff1-af86-467ac3a8d263" />
 
 
